@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: EveryTime
+title: "EveryTime"
 
 # Your name to show in the footer
-author: 익명
+author: "dkstpfk"
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+navbar-links: "dkstpfk.github.io"
+  About Me: "dkstpfk"
+  Resources: 
+    - Beautiful Jekyll: "https://dkstpfk.github.io.com"
+    - Learn markdown: "https://www.dkstpfk.github.io.com/"
+  Author's home: "https://dkstpfk.github.com"
 
 # --- Logo --- #
 "https://dkstpfk.github.com.io"
